@@ -25,7 +25,7 @@
 | Day 1 | Pentester | ✅ |
 | Day 2 | Application Security Engineer | ✅ |
 | Day 3 | Vulnerability Assessment Engineer | ✅ |
-| Day 4 | SOC Analyst | ⏳ |
+| Day 4 | SOC Analyst | ✅ |
 | Day 5 | Incident Responder | ⏳ |
 | Day 6 | Security Consultant | ⏳ |
 | Day 7 | Reflection & Career Review | ⏳ |
